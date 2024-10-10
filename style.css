@@ -1,0 +1,49 @@
+.avatar {
+    border-radius: 50%;
+
+}
+.avatar img {
+    width: 30%;
+    height: auto;
+    border-radius: 50%;
+    height: 50%;
+}
+/* styles.css */
+
+body {
+    font-family: "Roboto Condensed", sans-serif;
+    background-color: #f4f4f4; /* Light background color */
+    color: #333; /* Default text color */
+    margin: 20px; /* Margin around the content */
+  }
+  
+  h2 {
+    color: #007bff; /* Change color for headings */
+  }
+  
+  p {
+    line-height: 1.6; /* Improve line spacing for readability */
+  }
+  
+  ul {
+    list-style-type: none; /* Remove bullet points */
+    padding: 0; /* Remove padding */
+  }
+  
+  a {
+    color: #007bff; /* Link color */
+    text-decoration: none; /* Remove underline */
+  }
+  
+  a:hover {
+    text-decoration: underline; /* Underline on hover */
+    color: #ffd000; /* Change text color on hover */
+  }
+  
+  h2:hover {
+    color: #eefd61; /* Change heading color on hover */
+  }
+  
+  p:hover {
+    color: #ffc935; /* Change paragraph color on hover */
+  }
